@@ -1,4 +1,4 @@
-  streamlit==1.25.0
+streamlit==1.25.0
 torch==2.0.1+cpu  # Replace with a GPU version if necessary
 numpy==1.26.4
 easyocr==1.7.0

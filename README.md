@@ -1,5 +1,7 @@
 OCR Web Application
 
+URL to access the application:https://projectocr-gzqjquz9g8fitjd5xxz92a.streamlit.app/
+
 Project Overview
 This project is a web-based prototype that performs Optical Character Recognition (OCR) on uploaded images containing text in both Hindi and English. The application allows users to upload a single image, extracts the text using an OCR model, and includes a basic keyword search feature. The web application is developed using Streamlit and is deployed on a platform accessible via a public URL.
 

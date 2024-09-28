@@ -26,13 +26,17 @@ Clone the repository: If you haven’t already, clone the repository or download
 
 git clone https://github.com/your-username/ocr-web-app.git
 cd ocr-web-app
-Install Dependencies: Ensure you have installed all the dependencies as mentioned above. You can use the following command:
+Install Dependencies: Ensure you have installed all the dependencies as mentioned above.
+You can use the following command:
 
 pip install -r requirements.txt
+
 Running the Application: To launch the application, run the following command:
 
 streamlit run streamlit_app.py
-Access the Application: Once the application starts, you will see a local URL in your terminal. Open the URL in your browser to interact with the application.
+
+Access the Application: Once the application starts, you will see a local URL in your terminal.
+Open the URL in your browser to interact with the application.
 
 3. OCR Model Implementation
 OCR Model:

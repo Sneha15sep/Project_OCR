@@ -28,12 +28,10 @@ git clone https://github.com/your-username/ocr-web-app.git
 cd ocr-web-app
 Install Dependencies: Ensure you have installed all the dependencies as mentioned above.
 You can use the following command:
-
 pip install -r requirements.txt
 
 Running the Application: To launch the application, run the following command:
-
-streamlit run streamlit_app.py
+streamlit run app.py
 
 Access the Application: Once the application starts, you will see a local URL in your terminal.
 Open the URL in your browser to interact with the application.
@@ -65,6 +63,7 @@ After linking the repository, Streamlit will automatically deploy the app.
 You will receive a public URL for accessing the application.
 
 5. Public URL
+
 Once deployed on Streamlit Sharing, you can access the application via the live URL. Share this URL with others for demonstration and testing purposes.
 https://projectocr-gzqjquz9g8fitjd5xxz92a.streamlit.app/
 
